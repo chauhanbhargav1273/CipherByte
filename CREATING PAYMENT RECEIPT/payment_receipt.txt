@@ -1,0 +1,14 @@
+
+    ----------------------------------------
+               PAYMENT RECEIPT
+    ----------------------------------------
+    Date: 2024-07-18 09:48:42
+    
+    Customer Name: chauhan bhargav
+    Amount Paid: $1000.00
+    Payment Method: cash
+    Transaction ID: 648665734973497638965
+    
+    Thank you for your payment!
+    ----------------------------------------
+    
